@@ -21,9 +21,9 @@ This project focuses on various attacks/defense scenarios to assess the security
 
 ## LINKS
 
-[RED TEAM](https://github.com/ALPHYPSYCHE/OP3N1T_SECURITY/tree/main/ATTACKS_REDTEAM)
+[RED TEAM](https://github.com/OP3N1T-SECURITY/OP3N1T-SECURITY/blob/main/ATTACKS_REDTEAM/README.md)
 
-[BLUE TEAM](https://github.com/ALPHYPSYCHE/OP3N1T_SECURITY/tree/main/DEFENCE_BLUETEAM)
+[BLUE TEAM](https://github.com/OP3N1T-SECURITY/OP3N1T-SECURITY/blob/main/DEFENCE_BLUETEAM/README.md)
 
 ## Attack/Defence Categories
 
