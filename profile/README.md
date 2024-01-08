@@ -81,13 +81,13 @@ If you have additional red teaming techniques, tools, or improvements to existin
    |     └───SOCIAL_MEDIA_ATTACK
    |
    └───FILES
-       ├───Google Dorks
-       └───WORDLISTS
-           ├───dir
-           ├───dns
-           ├───files
-           ├───fuzz
-           ├───SecListsCurated
-           ├───technology
-           └───Uploads
+         ├───Google Dorks
+         └───WORDLISTS
+               ├───dir
+               ├───dns
+               ├───files
+               ├───fuzz
+               ├───SecListsCurated
+               ├───technology
+               └───Uploads
 ```
