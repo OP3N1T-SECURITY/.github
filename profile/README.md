@@ -25,9 +25,9 @@ This project focuses on various attacks/defense scenarios to assess the security
 
 ## LINKS
 
-[RED TEAM](https://github.com/OP3N1T-SECURITY/OP3N1T-SECURITY/blob/main/ATTACKS_REDTEAM/README.md)
+[RED TEAM (Private Link)](https://github.com/OP3N1T-SECURITY/OP3N1T-SECURITY/blob/main/ATTACKS_REDTEAM/README.md)
 
-[BLUE TEAM](https://github.com/OP3N1T-SECURITY/OP3N1T-SECURITY/blob/main/DEFENCE_BLUETEAM/README.md)
+[BLUE TEAM (Private Link)](https://github.com/OP3N1T-SECURITY/OP3N1T-SECURITY/blob/main/DEFENCE_BLUETEAM/README.md)
 
 ## Attack/Defence Categories
 
